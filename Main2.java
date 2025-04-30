@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Other/File.java to edit this template
  */
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
         Person person = new Person("Andi", "Jl. Merdeka", "081234567890", "andi@email.com");
         Student student = new Student("Budi", "Jl. Proklamasi", "081298765432", "budi@email.com", Student.SENIOR);
